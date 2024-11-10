@@ -7,7 +7,7 @@
  👯 I am well versed in various cyber and technical technologies. 
 
 
-I am currently pursuing a qulification in full-stack Web Development with the speciaties being HTMl,CSS and JAVAScript and all its frameworks. I do also have experience with Python and c++.
+I am currently pursuing a qulification in full-stack Web Development with the specialties being HTMl,CSS and JAVAScript and all its frameworks. I do also have experience with Python and c++.
 ### <ins>My social links are:</ins>
 ### <ins>Linkedin:</ins> https://www.linkedin.com/in/zain-ebrahim-254696100/
 ### <ins>codepen:</ins> https://codepen.io/AbdulHEbrahim2704
