@@ -8,12 +8,12 @@
 
 
 I am currently pursuing a qulification in full-stack Web Development with the speciaties being HTMl,CSS and JAVAScript and all its frameworks. I do also have experience with Python and c++.
-### <ins>My social links are:
-### Linkedin: https://www.linkedin.com/in/zain-ebrahim-254696100/
-### codepen: https://codepen.io/AbdulHEbrahim2704 </ins>
+### <ins>My social links are:</ins>
+### <ins>Linkedin:</ins> https://www.linkedin.com/in/zain-ebrahim-254696100/
+### <ins>codepen:</ins> https://codepen.io/AbdulHEbrahim2704
 
-### 💬 Contact Information:
-### <ins>Email: zain.ebrahim8@gmail.com</ins>
+### 💬 <ins>Contact Information:</ins>
+### <ins>Email:</ins> zain.ebrahim8@gmail.com
 
 <!--
 **AbdulH0423/AbdulH0423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
