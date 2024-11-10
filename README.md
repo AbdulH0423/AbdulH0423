@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Abdul-Hameed Zainud-deen Ebrahim, Also known as Zain. Im am currently a Technical Analyst and owner for EAM-IT (pty) LTD.
+# I'm Abdul-Hameed Zainud-deen Ebrahim, Also known as Zain. Im am currently a Technical Analyst and owner at EAM-IT (pty) LTD.
 ## At the moment we(my company and i) specialise in network and hardware maitainence and installation.
 
 ### 🔭 I am a Qualified Cyber Security Analyst, Desktop technician and aspiring full-stack Web Developer.
