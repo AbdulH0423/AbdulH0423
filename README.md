@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-# I'm <ins> ***Abdul-Hameed Zainud-deen Ebrahim, Also known as Zain*** </ins>. Im am currently a Technical Analyst and owner at EAM-IT (pty) LTD.
-## At the moment we(my company and i) specialise in network and hardware maitainence and installation.
+# I'm <ins> ***Abdul-Hameed Zainud-deen Ebrahim, Also known as Zain*** </ins>. Im am currently in pursuit of bevcoming a Full-stack devoloper.
 
-### 🔭 I am a Qualified Cyber Security Analyst, Desktop technician and aspiring <ins>full-stack Web Developer</ins>.
+### 🔭Formally I am a Qualified Cyber Security Analyst, Desktop technician and now soon to be <ins>full-stack Web Developer</ins>.
  👯 I am well versed in various cyber and technical technologies. 
 
 
-I am currently pursuing a qulification in full-stack Web Development with the specialties being HTMl,CSS and JAVAScript and all its frameworks. I do also have experience with Python and c++.
+I am currently pursuing a qulification in full-stack Web Development with the specialties being HTMl,CSS and JAVAScript and all its frameworks. My previos coding experience also incldes Python and c++.
 ### <ins>My social links are:</ins>
 ### <ins>Linkedin:</ins> https://www.linkedin.com/in/zain-ebrahim-254696100/
 ### <ins>codepen:</ins> https://codepen.io/AbdulHEbrahim2704
